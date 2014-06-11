@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<assets path="assets" />
+	<assets path="assets/img" rename="img" />
+	<assets path="assets/css" rename="css" />
+	<classpath name="assets" />
+</project>

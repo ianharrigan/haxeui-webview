@@ -1,0 +1,17 @@
+{
+    "name"         : "haxeui-webview",
+    "url"          : "https://github.com/ianharrigan/haxeui-webview",
+    "license"      : "MIT",
+    "tags"         : ["rich", "ui", "haxeui"],
+    "description"  : "Webview for HaxeUI",
+    "version"      : "0.1.0",
+    "releasenote"  : "",
+    "contributors" : ["ianharrigan"],
+    "dependencies" : {
+        "openfl"        : "",
+        "actuate"       : "",
+        "hscript"       : "",
+        "haxeui"        : "",
+        "cocktail"      : ""
+    }
+}
