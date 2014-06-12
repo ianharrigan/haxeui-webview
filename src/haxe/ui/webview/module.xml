@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<module>
+	<exports>
+		<component class="haxe.ui.webview.WebView" />
+	</exports>
+	<themes>
+		<public>
+			<styles path="css/webview.css" />
+		</public>
+		<default>
+			<styles path="css/default/webview.css" />
+		</default>
+		<gradient>
+			<styles path="css/gradient/webview.css" />
+		</gradient>
+	</themes>
+</module>

@@ -4,7 +4,7 @@
     "license"      : "MIT",
     "tags"         : ["rich", "ui", "haxeui"],
     "description"  : "Webview for HaxeUI",
-    "version"      : "0.1.0",
+    "version"      : "0.1.1",
     "releasenote"  : "",
     "contributors" : ["ianharrigan"],
     "dependencies" : {
